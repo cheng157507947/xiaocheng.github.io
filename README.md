@@ -8,4 +8,6 @@
 
 2.HEXO建站-基本设置：http://www.joryhe.com/2016-05-17-hexoxo-series-for-site-build-basic.html
 
+3.主题使用：https://github.com/iissnan/hexo-theme-next
+
 3.next主题设置：http://theme-next.iissnan.com/
