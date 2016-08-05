@@ -1,6 +1,6 @@
 # xcnote.github.io
 
-# hexo theme next
+### hexo theme next
 
 主题设置备份
 
