@@ -4,4 +4,4 @@
 
 主题设置备份
 
-git@github.com:iissnan/hexo-theme-next.git
+https://github.com/iissnan/hexo-theme-next
